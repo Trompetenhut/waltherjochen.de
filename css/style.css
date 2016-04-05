@@ -6,7 +6,8 @@ body {
   background-size: cover;
   font-family: 'Josefin Sans', sans-serif;
   color: white;
-  max-height:100vh;
+  overflow:hidden;
+  width:100%;
 }
 
 .center-text {
@@ -14,7 +15,7 @@ body {
 }
 
 .title {
-  font-size: 8em;
+  font-size: 80px;
   margin-top: 15%;
 }
 
